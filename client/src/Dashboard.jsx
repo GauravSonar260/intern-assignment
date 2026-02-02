@@ -105,7 +105,7 @@ function Dashboard() {
       border: '2px solid #E1BEE7',
       outline: 'none',
       fontSize: '1rem',
-      color: '#333' // Dark text for visibility
+      color: '#999393' // Dark text for visibility
     },
     addBtn: {
       backgroundColor: '#CE93D8',
