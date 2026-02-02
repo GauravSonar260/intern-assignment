@@ -1,0 +1,13 @@
+# Python Junk
+__pycache__/
+*.py[cod]
+venv/
+instance/
+.pytest_cache/
+site.db
+
+# React/Node Junk
+node_modules/
+dist/
+.env
+.DS_Store
